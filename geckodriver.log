@@ -1,0 +1,1064 @@
+1694745978893	geckodriver	INFO	Listening on 127.0.0.1:63733
+1694745979277	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dr/l1r1kjc537s63nb6j79mndkr0000gn/T/rust_mozprofilehbnCCm"
+1694745983799	geckodriver	INFO	Listening on 127.0.0.1:63746
+WebDriver BiDi listening on ws://127.0.0.1:63734
+1694745984213	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dr/l1r1kjc537s63nb6j79mndkr0000gn/T/rust_mozprofileQcKou4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694745984826	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694745985212	Marionette	INFO	Listening on port 63758
+WebDriver BiDi listening on ws://127.0.0.1:63747
+Read port: 63758
+1694745985438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-09-14 22:46:25.621 plugin-container[65230:2904021] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:25.621 plugin-container[65230:2904021] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-14 22:46:25.621 plugin-container[65236:2904238] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:25.621 plugin-container[65236:2904238] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-14 22:46:25.626 plugin-container[65230:2904021] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:25.626 plugin-container[65230:2904021] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-14 22:46:25.626 plugin-container[65236:2904238] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:25.626 plugin-container[65236:2904238] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-14 22:46:25.627 plugin-container[65230:2904023] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:25.627 plugin-container[65230:2904023] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-14 22:46:25.627 plugin-container[65236:2904258] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:25.627 plugin-container[65236:2904258] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:63734/devtools/browser/856e0315-2bdb-43eb-9946-5efaabdc645c
+DevTools listening on ws://127.0.0.1:63747/devtools/browser/c087665f-3bf3-4e46-9a45-599735ae042b
+1694745988247	Marionette	INFO	Stopped listening on port 63758
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694745989650	geckodriver	INFO	Listening on 127.0.0.1:63824
+1694745990051	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dr/l1r1kjc537s63nb6j79mndkr0000gn/T/rust_mozprofileAl4GIT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694745990533	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694745990710	Marionette	INFO	Listening on port 63836
+2023-09-14 22:46:30.764 plugin-container[65254:2904935] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:30.764 plugin-container[65254:2904935] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-14 22:46:30.768 plugin-container[65254:2904935] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:30.768 plugin-container[65254:2904935] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-14 22:46:30.769 plugin-container[65254:2904939] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:30.769 plugin-container[65254:2904939] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 63836
+WebDriver BiDi listening on ws://127.0.0.1:63825
+1694745990929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63825/devtools/browser/3feada3c-d1a8-4abd-83b3-c3e117633ea6
+1694745992970	Marionette	INFO	Stopped listening on port 63836
+JavaScript error: resource://services-settings/RemoteSettingsWorker.sys.mjs, line 131: Error: Shutdown, aborting read-only worker requests.
+1694745994375	geckodriver	INFO	Listening on 127.0.0.1:63863
+1694745994776	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dr/l1r1kjc537s63nb6j79mndkr0000gn/T/rust_mozprofileBiEMXC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694745995265	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694745995439	Marionette	INFO	Listening on port 63871
+Read port: 63871
+2023-09-14 22:46:35.494 plugin-container[65269:2905370] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:35.494 plugin-container[65269:2905370] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-14 22:46:35.498 plugin-container[65269:2905370] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:35.498 plugin-container[65269:2905370] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-14 22:46:35.498 plugin-container[65269:2905368] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:35.498 plugin-container[65269:2905368] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:63864
+1694745995670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63864/devtools/browser/092e1080-9c27-4dee-a259-eaff0b54e178
+1694745997524	Marionette	INFO	Stopped listening on port 63871
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694745999178	geckodriver	INFO	Listening on 127.0.0.1:63897
+1694745999589	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dr/l1r1kjc537s63nb6j79mndkr0000gn/T/rust_mozprofileKP5XEM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694746000120	Marionette	INFO	Marionette enabled
+2023-09-14 22:46:40.353 plugin-container[65284:2905836] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:40.353 plugin-container[65284:2905836] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-14 22:46:40.360 plugin-container[65284:2905836] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:40.360 plugin-container[65284:2905836] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-14 22:46:40.361 plugin-container[65284:2905841] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:40.361 plugin-container[65284:2905841] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694746000528	Marionette	INFO	Listening on port 63920
+WebDriver BiDi listening on ws://127.0.0.1:63898
+Read port: 63920
+1694746000776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63898/devtools/browser/336a099c-0a59-4ba2-8bec-f3545c4a3403
+1694746002386	Marionette	INFO	Stopped listening on port 63920
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694746004086	geckodriver	INFO	Listening on 127.0.0.1:63949
+1694746004493	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dr/l1r1kjc537s63nb6j79mndkr0000gn/T/rust_mozprofileFjlj2s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694746004977	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694746005151	Marionette	INFO	Listening on port 63957
+2023-09-14 22:46:45.187 plugin-container[65306:2906348] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:45.188 plugin-container[65306:2906348] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-14 22:46:45.191 plugin-container[65306:2906348] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:45.191 plugin-container[65306:2906348] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-14 22:46:45.192 plugin-container[65306:2906350] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-14 22:46:45.192 plugin-container[65306:2906350] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 63957
+WebDriver BiDi listening on ws://127.0.0.1:63950
+1694746005359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63950/devtools/browser/89a2ca18-fee2-4e5e-b221-250dc2b07dcb
+1694746007103	Marionette	INFO	Stopped listening on port 63957
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694780748495	geckodriver	INFO	Listening on 127.0.0.1:62621
+1694780748760	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofilejuMHoW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694780749598	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694780749720	Marionette	INFO	Listening on port 62630
+WebDriver BiDi listening on ws://127.0.0.1:62622
+2023-09-15 08:25:49.767 plugin-container[14418:15812300] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:25:49.767 plugin-container[14418:15812300] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 08:25:49.778 plugin-container[14418:15812300] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:25:49.778 plugin-container[14418:15812300] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 08:25:49.778 plugin-container[14418:15812302] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:25:49.778 plugin-container[14418:15812302] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 62630
+1694780749849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62622/devtools/browser/8ec96b57-ecf6-4832-bac8-033871f7fc50
+1694780751282	Marionette	INFO	Stopped listening on port 62630
+JavaScript error: resource://services-settings/RemoteSettingsWorker.sys.mjs, line 131: Error: Shutdown, aborting read-only worker requests.
+1694780754713	geckodriver	INFO	Listening on 127.0.0.1:62665
+1694780755122	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofilec9o7Xf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694780755431	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694780755547	Marionette	INFO	Listening on port 62673
+WebDriver BiDi listening on ws://127.0.0.1:62666
+2023-09-15 08:25:55.563 plugin-container[14443:15812780] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:25:55.563 plugin-container[14443:15812780] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 08:25:55.570 plugin-container[14443:15812780] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:25:55.570 plugin-container[14443:15812780] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 08:25:55.570 plugin-container[14443:15812777] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:25:55.570 plugin-container[14443:15812777] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 62673
+1694780755730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62666/devtools/browser/7dea3769-7b71-472a-885d-5eaa86f7c762
+1694780756612	Marionette	INFO	Stopped listening on port 62673
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694780760293	geckodriver	INFO	Listening on 127.0.0.1:62706
+1694780760717	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileADCzEw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694780761053	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694780761194	Marionette	INFO	Listening on port 62714
+WebDriver BiDi listening on ws://127.0.0.1:62707
+2023-09-15 08:26:01.203 plugin-container[14465:15813186] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:26:01.203 plugin-container[14465:15813186] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 08:26:01.221 plugin-container[14465:15813186] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:26:01.221 plugin-container[14465:15813186] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 08:26:01.221 plugin-container[14465:15813188] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:26:01.221 plugin-container[14465:15813188] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 62714
+1694780761324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62707/devtools/browser/e4598ad5-0f99-4d62-9c6d-46978aeedfc4
+1694780762161	Marionette	INFO	Stopped listening on port 62714
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694780766536	geckodriver	INFO	Listening on 127.0.0.1:62744
+1694780766959	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofilejMOhI0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694780767319	Marionette	INFO	Marionette enabled
+2023-09-15 08:26:07.444 plugin-container[14485:15813541] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:26:07.444 plugin-container[14485:15813541] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 08:26:07.448 plugin-container[14485:15813541] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:26:07.448 plugin-container[14485:15813541] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 08:26:07.448 plugin-container[14485:15813545] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:26:07.448 plugin-container[14485:15813545] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694780767505	Marionette	INFO	Listening on port 62752
+WebDriver BiDi listening on ws://127.0.0.1:62745
+Read port: 62752
+1694780767665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62745/devtools/browser/f30ffc21-ca2a-4a32-b2e3-5b191139cce0
+1694780768386	Marionette	INFO	Stopped listening on port 62752
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694780771744	geckodriver	INFO	Listening on 127.0.0.1:62781
+1694780772164	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileP0E3ub"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694780772493	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694780772605	Marionette	INFO	Listening on port 62789
+WebDriver BiDi listening on ws://127.0.0.1:62782
+2023-09-15 08:26:12.618 plugin-container[14505:15813889] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:26:12.618 plugin-container[14505:15813889] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 08:26:12.625 plugin-container[14505:15813889] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:26:12.625 plugin-container[14505:15813889] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 08:26:12.625 plugin-container[14505:15813898] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:26:12.625 plugin-container[14505:15813898] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 62789
+1694780772798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62782/devtools/browser/36751f32-3f2f-4a83-9684-563795a97abf
+1694780773553	Marionette	INFO	Stopped listening on port 62789
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694780777468	geckodriver	INFO	Listening on 127.0.0.1:62813
+1694780777873	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofilePrBxrH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694780778184	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694780778299	Marionette	INFO	Listening on port 62821
+WebDriver BiDi listening on ws://127.0.0.1:62814
+2023-09-15 08:26:18.317 plugin-container[14525:15814243] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:26:18.317 plugin-container[14525:15814243] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 08:26:18.372 plugin-container[14525:15814243] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:26:18.372 plugin-container[14525:15814243] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 08:26:18.372 plugin-container[14525:15814249] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 08:26:18.372 plugin-container[14525:15814249] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 62821
+1694780778483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62814/devtools/browser/09bca50c-affd-4457-ad7f-5dd1a5572003
+1694780779258	Marionette	INFO	Stopped listening on port 62821
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694783705735	geckodriver	INFO	Listening on 127.0.0.1:63645
+1694783706211	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileWyhw2R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694783707384	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694783707531	Marionette	INFO	Listening on port 63653
+WebDriver BiDi listening on ws://127.0.0.1:63646
+Read port: 63653
+2023-09-15 09:15:07.566 plugin-container[15338:15841527] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:07.566 plugin-container[15338:15841527] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:15:07.578 plugin-container[15338:15841527] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:07.578 plugin-container[15338:15841527] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:15:07.578 plugin-container[15338:15841536] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:07.578 plugin-container[15338:15841536] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694783707635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63646/devtools/browser/fc006ff0-7035-43dc-9901-acd29d036387
+1694783708803	Marionette	INFO	Stopped listening on port 63653
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694783711780	geckodriver	INFO	Listening on 127.0.0.1:63687
+1694783712208	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileHTLUUX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694783712523	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694783712630	Marionette	INFO	Listening on port 63696
+WebDriver BiDi listening on ws://127.0.0.1:63688
+2023-09-15 09:15:12.640 plugin-container[15361:15841969] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:12.640 plugin-container[15361:15841969] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:15:12.647 plugin-container[15361:15841969] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:12.647 plugin-container[15361:15841969] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:15:12.648 plugin-container[15361:15841973] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:12.648 plugin-container[15361:15841973] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 63696
+1694783712802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63688/devtools/browser/ac8fd101-b0c8-4ec6-bbe0-e5a43ba45bdc
+1694783715382	Marionette	INFO	Stopped listening on port 63696
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694783717109	geckodriver	INFO	Listening on 127.0.0.1:63740
+1694783717526	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileEuXFVg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694783717838	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694783717936	Marionette	INFO	Listening on port 63749
+WebDriver BiDi listening on ws://127.0.0.1:63741
+2023-09-15 09:15:17.947 plugin-container[15385:15842413] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:17.947 plugin-container[15385:15842413] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:15:17.957 plugin-container[15385:15842413] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:17.957 plugin-container[15385:15842413] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:15:17.957 plugin-container[15385:15842425] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:17.957 plugin-container[15385:15842425] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 63749
+1694783718111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63741/devtools/browser/75336663-c9e9-4756-8282-95f645b15950
+1694783719743	Marionette	INFO	Stopped listening on port 63749
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694783722381	geckodriver	INFO	Listening on 127.0.0.1:63785
+1694783722788	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofilehEaacw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694783723110	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694783723222	Marionette	INFO	Listening on port 63794
+WebDriver BiDi listening on ws://127.0.0.1:63786
+2023-09-15 09:15:23.237 plugin-container[15408:15842869] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:23.237 plugin-container[15408:15842869] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:15:23.245 plugin-container[15408:15842869] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:23.245 plugin-container[15408:15842869] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:15:23.245 plugin-container[15408:15842879] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:23.245 plugin-container[15408:15842879] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 63794
+1694783723397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63786/devtools/browser/15a36191-79d7-4b85-b256-3ad20026c5c4
+1694783724877	Marionette	INFO	Stopped listening on port 63794
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694783727533	geckodriver	INFO	Listening on 127.0.0.1:63834
+1694783727941	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileJUxquI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694783728266	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694783728369	Marionette	INFO	Listening on port 63842
+WebDriver BiDi listening on ws://127.0.0.1:63835
+2023-09-15 09:15:28.379 plugin-container[15433:15843290] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:28.379 plugin-container[15433:15843290] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:15:28.396 plugin-container[15433:15843290] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:28.396 plugin-container[15433:15843290] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:15:28.396 plugin-container[15433:15843295] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:28.396 plugin-container[15433:15843295] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 63842
+1694783728544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63835/devtools/browser/1e1c6e00-2dda-44ff-94c9-caa139ceb9f3
+1694783729318	Marionette	INFO	Stopped listening on port 63842
+JavaScript error: resource://services-settings/RemoteSettingsWorker.sys.mjs, line 131: Error: Shutdown, aborting read-only worker requests.
+1694783733008	geckodriver	INFO	Listening on 127.0.0.1:63875
+1694783733420	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileQQNVzy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694783733734	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694783733833	Marionette	INFO	Listening on port 63883
+WebDriver BiDi listening on ws://127.0.0.1:63876
+2023-09-15 09:15:33.846 plugin-container[15453:15843652] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:33.846 plugin-container[15453:15843652] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:15:33.859 plugin-container[15453:15843652] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:33.859 plugin-container[15453:15843652] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:15:33.859 plugin-container[15453:15843656] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:15:33.859 plugin-container[15453:15843656] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 63883
+1694783734013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63876/devtools/browser/9fcd7357-ae41-4da2-b0f6-0f2803e77ad0
+1694783735509	Marionette	INFO	Stopped listening on port 63883
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694784508874	geckodriver	INFO	Listening on 127.0.0.1:64058
+1694784509312	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofilenqdXPe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694784509627	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694784509725	Marionette	INFO	Listening on port 64066
+WebDriver BiDi listening on ws://127.0.0.1:64059
+2023-09-15 09:28:29.738 plugin-container[15680:15849770] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:29.738 plugin-container[15680:15849770] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:28:29.745 plugin-container[15680:15849770] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:29.745 plugin-container[15680:15849770] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:28:29.745 plugin-container[15680:15849781] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:29.745 plugin-container[15680:15849781] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 64066
+1694784509904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64059/devtools/browser/94476368-b391-4bb7-91ba-bbb2e3a822ef
+1694784510965	Marionette	INFO	Stopped listening on port 64066
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694784514108	geckodriver	INFO	Listening on 127.0.0.1:64101
+1694784514517	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileK9nSJN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694784514831	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694784514934	Marionette	INFO	Listening on port 64109
+WebDriver BiDi listening on ws://127.0.0.1:64102
+2023-09-15 09:28:34.942 plugin-container[15702:15850184] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:34.943 plugin-container[15702:15850184] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:28:34.952 plugin-container[15702:15850184] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:34.952 plugin-container[15702:15850184] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:28:34.952 plugin-container[15702:15850186] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:34.952 plugin-container[15702:15850186] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 64109
+1694784515108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64102/devtools/browser/5fb44114-27f9-415b-a1ac-4d473eaf3792
+1694784517497	Marionette	INFO	Stopped listening on port 64109
+1694784519369	geckodriver	INFO	Listening on 127.0.0.1:64155
+1694784519795	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofilenPjIl3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694784520111	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694784520209	Marionette	INFO	Listening on port 64163
+WebDriver BiDi listening on ws://127.0.0.1:64156
+2023-09-15 09:28:40.219 plugin-container[15725:15850625] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:40.220 plugin-container[15725:15850625] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 64163
+2023-09-15 09:28:40.230 plugin-container[15725:15850625] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:40.230 plugin-container[15725:15850625] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:28:40.230 plugin-container[15725:15850631] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:40.230 plugin-container[15725:15850631] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694784520336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64156/devtools/browser/8a0e302e-155b-45a6-97f1-b8fffd014acb
+1694784522247	Marionette	INFO	Stopped listening on port 64163
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694784524502	geckodriver	INFO	Listening on 127.0.0.1:64205
+1694784524925	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofiledwRfKv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694784525250	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694784525349	Marionette	INFO	Listening on port 64213
+2023-09-15 09:28:45.359 plugin-container[15748:15851063] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:45.360 plugin-container[15748:15851063] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:28:45.366 plugin-container[15748:15851063] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:45.366 plugin-container[15748:15851063] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:28:45.366 plugin-container[15748:15851066] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:45.366 plugin-container[15748:15851066] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:64206
+Read port: 64213
+1694784525531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64206/devtools/browser/376dafd1-1b8b-4d51-bcaa-85d1c54b6740
+1694784527185	Marionette	INFO	Stopped listening on port 64213
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694784530190	geckodriver	INFO	Listening on 127.0.0.1:64255
+1694784530621	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofile2JyIYK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694784530925	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694784531027	Marionette	INFO	Listening on port 64263
+WebDriver BiDi listening on ws://127.0.0.1:64256
+2023-09-15 09:28:51.038 plugin-container[15772:15851501] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:51.039 plugin-container[15772:15851501] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 64263
+2023-09-15 09:28:51.045 plugin-container[15772:15851501] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:51.045 plugin-container[15772:15851501] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:28:51.045 plugin-container[15772:15851504] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:51.045 plugin-container[15772:15851504] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694784531150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64256/devtools/browser/8c860fe0-c440-4e74-b314-6f0126aa7a91
+1694784531927	Marionette	INFO	Stopped listening on port 64263
+JavaScript error: resource://services-settings/RemoteSettingsWorker.sys.mjs, line 131: Error: Shutdown, aborting read-only worker requests.
+1694784535663	geckodriver	INFO	Listening on 127.0.0.1:64296
+1694784536071	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileYCNvLw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694784536382	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694784536484	Marionette	INFO	Listening on port 64304
+WebDriver BiDi listening on ws://127.0.0.1:64297
+Read port: 64304
+2023-09-15 09:28:56.504 plugin-container[15792:15851856] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:56.505 plugin-container[15792:15851856] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:28:56.519 plugin-container[15792:15851856] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:56.519 plugin-container[15792:15851856] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:28:56.519 plugin-container[15792:15851862] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:28:56.519 plugin-container[15792:15851862] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694784536613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64297/devtools/browser/1d0f6bd3-46a5-4dfb-8b95-4a17e8198122
+1694784538347	Marionette	INFO	Stopped listening on port 64304
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694786030883	geckodriver	INFO	Listening on 127.0.0.1:64612
+1694786031347	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileAAZVvK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694786032295	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694786032439	Marionette	INFO	Listening on port 64620
+WebDriver BiDi listening on ws://127.0.0.1:64613
+2023-09-15 09:53:52.457 plugin-container[16048:15863076] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:53:52.458 plugin-container[16048:15863076] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:53:52.464 plugin-container[16048:15863076] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:53:52.464 plugin-container[16048:15863076] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:53:52.464 plugin-container[16048:15863088] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:53:52.464 plugin-container[16048:15863088] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 64620
+1694786032592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64613/devtools/browser/31d567e2-2267-4d44-b5d4-b59f2c6cebc0
+1694786034356	Marionette	INFO	Stopped listening on port 64620
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694786037106	geckodriver	INFO	Listening on 127.0.0.1:64660
+1694786037538	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofilee4Qz0X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694786037849	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694786037945	Marionette	INFO	Listening on port 64668
+2023-09-15 09:53:57.952 plugin-container[16071:15863532] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:53:57.952 plugin-container[16071:15863532] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 64668
+WebDriver BiDi listening on ws://127.0.0.1:64661
+2023-09-15 09:53:57.958 plugin-container[16071:15863532] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:53:57.958 plugin-container[16071:15863532] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:53:57.958 plugin-container[16071:15863529] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:53:57.958 plugin-container[16071:15863529] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694786038029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64661/devtools/browser/ff42c528-53a8-48fe-8b0c-c7ad0daaa994
+1694786040874	Marionette	INFO	Stopped listening on port 64668
+1694786042562	geckodriver	INFO	Listening on 127.0.0.1:64711
+1694786042982	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofilerZctZ5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694786043320	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694786043418	Marionette	INFO	Listening on port 64719
+WebDriver BiDi listening on ws://127.0.0.1:64712
+2023-09-15 09:54:03.432 plugin-container[16094:15863985] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:54:03.432 plugin-container[16094:15863985] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:54:03.446 plugin-container[16094:15863985] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:54:03.446 plugin-container[16094:15863985] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:54:03.446 plugin-container[16094:15863991] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:54:03.446 plugin-container[16094:15863991] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 64719
+1694786043596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64712/devtools/browser/20a594c3-db1f-4689-95e6-4c82dbb732ed
+1694786045452	Marionette	INFO	Stopped listening on port 64719
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694786047649	geckodriver	INFO	Listening on 127.0.0.1:64764
+1694786048062	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileA2nzKA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694786048373	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694786048470	Marionette	INFO	Listening on port 64772
+WebDriver BiDi listening on ws://127.0.0.1:64765
+2023-09-15 09:54:08.482 plugin-container[16117:15864409] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:54:08.482 plugin-container[16117:15864409] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 64772
+2023-09-15 09:54:08.492 plugin-container[16117:15864409] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:54:08.492 plugin-container[16117:15864409] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:54:08.492 plugin-container[16117:15864412] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:54:08.492 plugin-container[16117:15864412] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694786048597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64765/devtools/browser/8dd1b58f-331e-471e-845e-ad47ae2437d5
+1694786050406	Marionette	INFO	Stopped listening on port 64772
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694786053125	geckodriver	INFO	Listening on 127.0.0.1:64815
+1694786053545	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileCHwhta"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694786053860	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694786053959	Marionette	INFO	Listening on port 64823
+WebDriver BiDi listening on ws://127.0.0.1:64816
+2023-09-15 09:54:13.966 plugin-container[16140:15864847] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:54:13.966 plugin-container[16140:15864847] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 64823
+2023-09-15 09:54:13.974 plugin-container[16140:15864847] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:54:13.974 plugin-container[16140:15864847] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:54:13.974 plugin-container[16140:15864850] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:54:13.974 plugin-container[16140:15864850] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694786054085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64816/devtools/browser/34073ae9-77df-4842-8a6f-bfec1f61c9dd
+1694786054947	Marionette	INFO	Stopped listening on port 64823
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694786058160	geckodriver	INFO	Listening on 127.0.0.1:64858
+1694786058585	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofile7b0lxg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694786058894	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694786058997	Marionette	INFO	Listening on port 64866
+WebDriver BiDi listening on ws://127.0.0.1:64859
+2023-09-15 09:54:19.011 plugin-container[16161:15865223] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:54:19.011 plugin-container[16161:15865223] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 64866
+2023-09-15 09:54:19.018 plugin-container[16161:15865223] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:54:19.018 plugin-container[16161:15865223] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 09:54:19.018 plugin-container[16161:15865226] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 09:54:19.018 plugin-container[16161:15865226] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694786059121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64859/devtools/browser/e3271ced-58dd-44ec-b995-2ac4b8d4bfee
+1694786060987	Marionette	INFO	Stopped listening on port 64866
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694789036103	geckodriver	INFO	Listening on 127.0.0.1:49243
+1694789036565	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofilersPNiO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694789037703	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694789037844	Marionette	INFO	Listening on port 49251
+WebDriver BiDi listening on ws://127.0.0.1:49244
+2023-09-15 10:43:57.869 plugin-container[17029:15908094] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:43:57.869 plugin-container[17029:15908094] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 10:43:57.877 plugin-container[17029:15908094] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:43:57.877 plugin-container[17029:15908094] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 10:43:57.877 plugin-container[17029:15908097] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:43:57.877 plugin-container[17029:15908097] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49251
+1694789038017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49244/devtools/browser/ed21fd7d-a920-4a01-8e5a-bf8a425e03a2
+1694789039725	Marionette	INFO	Stopped listening on port 49251
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694789042445	geckodriver	INFO	Listening on 127.0.0.1:49295
+1694789042893	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileZPizMc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694789043990	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694789044141	Marionette	INFO	Listening on port 49303
+WebDriver BiDi listening on ws://127.0.0.1:49296
+2023-09-15 10:44:04.167 plugin-container[17056:15908584] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:44:04.168 plugin-container[17056:15908584] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 10:44:04.179 plugin-container[17056:15908584] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:44:04.179 plugin-container[17056:15908584] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 10:44:04.179 plugin-container[17056:15908585] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:44:04.179 plugin-container[17056:15908585] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49303
+1694789044319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49296/devtools/browser/e4d494aa-1f3f-4729-b6b0-fa88c031ee1a
+1694789046675	Marionette	INFO	Stopped listening on port 49303
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694789048607	geckodriver	INFO	Listening on 127.0.0.1:49348
+1694789049034	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofilegPTQya"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694789049335	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694789049451	Marionette	INFO	Listening on port 49356
+WebDriver BiDi listening on ws://127.0.0.1:49349
+2023-09-15 10:44:09.463 plugin-container[17079:15909015] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:44:09.463 plugin-container[17079:15909015] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 10:44:09.466 plugin-container[17079:15909015] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:44:09.466 plugin-container[17079:15909015] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 10:44:09.466 plugin-container[17079:15909013] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:44:09.466 plugin-container[17079:15909013] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49356
+1694789049649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49349/devtools/browser/e30ac36c-12ec-47c9-872e-f1cf44499306
+1694789051571	Marionette	INFO	Stopped listening on port 49356
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694789055456	geckodriver	INFO	Listening on 127.0.0.1:49394
+1694789055885	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileXmCZYF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694789056227	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694789056350	Marionette	INFO	Listening on port 49403
+Read port: 49403
+2023-09-15 10:44:16.400 plugin-container[17103:15909435] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:44:16.400 plugin-container[17103:15909435] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 10:44:16.405 plugin-container[17103:15909435] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:44:16.405 plugin-container[17103:15909435] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 10:44:16.405 plugin-container[17103:15909439] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:44:16.405 plugin-container[17103:15909439] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:49395
+1694789056458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49395/devtools/browser/3ea6e7c7-bb26-486c-a6fb-bd220cd63851
+1694789058719	Marionette	INFO	Stopped listening on port 49403
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694789061160	geckodriver	INFO	Listening on 127.0.0.1:49451
+1694789061598	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofile0sKRuz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694789061929	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694789062041	Marionette	INFO	Listening on port 49459
+WebDriver BiDi listening on ws://127.0.0.1:49452
+2023-09-15 10:44:22.052 plugin-container[17131:15909894] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:44:22.052 plugin-container[17131:15909894] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 10:44:22.062 plugin-container[17131:15909894] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:44:22.062 plugin-container[17131:15909894] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 10:44:22.062 plugin-container[17131:15909901] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:44:22.062 plugin-container[17131:15909901] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49459
+1694789062234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49452/devtools/browser/bc1b761b-79c8-4b99-b678-7b3ec1dd602b
+1694789063007	Marionette	INFO	Stopped listening on port 49459
+JavaScript error: resource://services-settings/RemoteSettingsWorker.sys.mjs, line 131: Error: Shutdown, aborting read-only worker requests.
+1694789066404	geckodriver	INFO	Listening on 127.0.0.1:49492
+1694789066831	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofilekHBcta"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694789067146	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-09-15 10:44:27.263 plugin-container[17151:15910235] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:44:27.263 plugin-container[17151:15910235] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 10:44:27.267 plugin-container[17151:15910235] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:44:27.267 plugin-container[17151:15910235] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 10:44:27.267 plugin-container[17151:15910241] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 10:44:27.267 plugin-container[17151:15910241] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694789067267	Marionette	INFO	Listening on port 49500
+WebDriver BiDi listening on ws://127.0.0.1:49493
+Read port: 49500
+1694789067460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49493/devtools/browser/5aac309a-24ec-49a3-9229-2fb211ee76ad
+1694789069147	Marionette	INFO	Stopped listening on port 49500
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694790067268	geckodriver	INFO	Listening on 127.0.0.1:49730
+1694790067719	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileC0j5PA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694790069096	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694790069322	Marionette	INFO	Listening on port 49739
+WebDriver BiDi listening on ws://127.0.0.1:49731
+2023-09-15 11:01:09.376 plugin-container[17393:15919014] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:09.376 plugin-container[17393:15919014] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49739
+2023-09-15 11:01:09.392 plugin-container[17393:15919014] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:09.392 plugin-container[17393:15919014] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 11:01:09.392 plugin-container[17393:15919019] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:09.392 plugin-container[17393:15919019] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694790069454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49731/devtools/browser/f5fe0222-10d1-4d35-b72e-20f6f58ceaec
+1694790071407	Marionette	INFO	Stopped listening on port 49739
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694790074105	geckodriver	INFO	Listening on 127.0.0.1:49776
+1694790074531	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileaGilfB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694790074802	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694790074909	Marionette	INFO	Listening on port 49784
+WebDriver BiDi listening on ws://127.0.0.1:49777
+2023-09-15 11:01:14.922 plugin-container[17448:15923413] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:14.923 plugin-container[17448:15923413] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 11:01:14.925 plugin-container[17448:15923413] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:14.925 plugin-container[17448:15923413] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 11:01:14.926 plugin-container[17448:15923424] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:14.926 plugin-container[17448:15923424] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49784
+1694790075038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49777/devtools/browser/c4edb807-fba3-4540-97b6-15b8fb526aff
+1694790077416	Marionette	INFO	Stopped listening on port 49784
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694790079744	geckodriver	INFO	Listening on 127.0.0.1:49828
+1694790080189	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofile5rx3il"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694790080463	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694790080560	Marionette	INFO	Listening on port 49836
+2023-09-15 11:01:20.570 plugin-container[17505:15924175] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:20.571 plugin-container[17505:15924175] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:49829
+2023-09-15 11:01:20.574 plugin-container[17505:15924175] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:20.574 plugin-container[17505:15924175] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 11:01:20.574 plugin-container[17505:15924185] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:20.574 plugin-container[17505:15924185] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49836
+1694790080689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49829/devtools/browser/f62d1f07-c547-4dde-bddd-7a68493d4d0a
+1694790082837	Marionette	INFO	Stopped listening on port 49836
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694790085344	geckodriver	INFO	Listening on 127.0.0.1:49876
+1694790085764	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileuVHxR0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694790086030	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694790086131	Marionette	INFO	Listening on port 49884
+2023-09-15 11:01:26.142 plugin-container[17563:15924794] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:26.142 plugin-container[17563:15924794] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:49877
+2023-09-15 11:01:26.145 plugin-container[17563:15924794] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:26.145 plugin-container[17563:15924794] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 11:01:26.145 plugin-container[17563:15924798] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:26.145 plugin-container[17563:15924798] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49884
+1694790086263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49877/devtools/browser/82fdba71-1d0b-4ceb-90a9-3675e12a24a5
+1694790087976	Marionette	INFO	Stopped listening on port 49884
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694790091243	geckodriver	INFO	Listening on 127.0.0.1:49923
+1694790091658	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileEXj00w"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694790091948	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694790092052	Marionette	INFO	Listening on port 49932
+2023-09-15 11:01:32.061 plugin-container[17625:15925455] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:32.061 plugin-container[17625:15925455] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 11:01:32.064 plugin-container[17625:15925455] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:32.064 plugin-container[17625:15925455] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 11:01:32.065 plugin-container[17625:15925467] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:32.065 plugin-container[17625:15925467] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49932
+WebDriver BiDi listening on ws://127.0.0.1:49924
+1694790092148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49924/devtools/browser/a0cea78e-58f6-4aaf-954a-9eefb06b46d3
+1694790093905	Marionette	INFO	Stopped listening on port 49932
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694790096755	geckodriver	INFO	Listening on 127.0.0.1:49967
+1694790097191	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofilernr8uN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694790097459	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694790097554	Marionette	INFO	Listening on port 49975
+2023-09-15 11:01:37.565 plugin-container[17729:15926213] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:37.566 plugin-container[17729:15926213] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 11:01:37.569 plugin-container[17729:15926213] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:37.569 plugin-container[17729:15926213] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 11:01:37.569 plugin-container[17729:15926233] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 11:01:37.569 plugin-container[17729:15926233] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49975
+WebDriver BiDi listening on ws://127.0.0.1:49968
+1694790097644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49968/devtools/browser/4a55ad1d-7818-44af-8ddc-a7184d1c3faf
+1694790099186	Marionette	INFO	Stopped listening on port 49975
+JavaScript error: resource://services-settings/RemoteSettingsWorker.sys.mjs, line 131: Error: Shutdown, aborting read-only worker requests.
+1694794263489	geckodriver	INFO	Listening on 127.0.0.1:50876
+1694794263937	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofile1II0Hr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694794265164	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694794265304	Marionette	INFO	Listening on port 50885
+WebDriver BiDi listening on ws://127.0.0.1:50877
+2023-09-15 12:11:05.317 plugin-container[19139:15968464] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:05.318 plugin-container[19139:15968464] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:11:05.326 plugin-container[19139:15968464] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:05.326 plugin-container[19139:15968464] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:11:05.326 plugin-container[19139:15968493] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:05.326 plugin-container[19139:15968493] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 50885
+1694794265483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:50877/devtools/browser/266d0a00-bd04-4923-915b-d84c5d76b833
+1694794267323	Marionette	INFO	Stopped listening on port 50885
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694794270288	geckodriver	INFO	Listening on 127.0.0.1:50926
+1694794270700	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileK9RzBA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694794271010	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694794271114	Marionette	INFO	Listening on port 50934
+WebDriver BiDi listening on ws://127.0.0.1:50927
+2023-09-15 12:11:11.124 plugin-container[19163:15968938] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:11.125 plugin-container[19163:15968938] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 50934
+2023-09-15 12:11:11.133 plugin-container[19163:15968938] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:11.133 plugin-container[19163:15968938] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:11:11.133 plugin-container[19163:15968941] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:11.133 plugin-container[19163:15968941] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694794271243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:50927/devtools/browser/e89fcd5b-12bd-48d7-a38f-ab2d1f431244
+1694794273677	Marionette	INFO	Stopped listening on port 50934
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694794276297	geckodriver	INFO	Listening on 127.0.0.1:50977
+1694794276721	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileZCfrgL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694794277007	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694794277125	Marionette	INFO	Listening on port 50986
+2023-09-15 12:11:17.129 plugin-container[19186:15969398] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:17.129 plugin-container[19186:15969398] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:50978
+2023-09-15 12:11:17.136 plugin-container[19186:15969398] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:17.136 plugin-container[19186:15969398] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:11:17.136 plugin-container[19186:15969401] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:17.136 plugin-container[19186:15969401] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 50986
+1694794277260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:50978/devtools/browser/19a679c8-2dfb-4ece-8dd7-4c8ca05c2c08
+1694794279102	Marionette	INFO	Stopped listening on port 50986
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694794282437	geckodriver	INFO	Listening on 127.0.0.1:51024
+1694794282868	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofile6v94wS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694794283219	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694794283323	Marionette	INFO	Listening on port 51032
+2023-09-15 12:11:23.338 plugin-container[19209:15969830] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:23.338 plugin-container[19209:15969830] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:11:23.344 plugin-container[19209:15969830] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:23.344 plugin-container[19209:15969830] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:11:23.344 plugin-container[19209:15969836] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:23.344 plugin-container[19209:15969836] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 51032
+WebDriver BiDi listening on ws://127.0.0.1:51025
+1694794283408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51025/devtools/browser/2a2aceb7-b46d-486a-9b42-1bf927bd8757
+1694794285278	Marionette	INFO	Stopped listening on port 51032
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694794289222	geckodriver	INFO	Listening on 127.0.0.1:51070
+1694794289648	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileWnmp5L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694794289962	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694794290063	Marionette	INFO	Listening on port 51078
+2023-09-15 12:11:30.076 plugin-container[19232:15970265] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:30.076 plugin-container[19232:15970265] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:11:30.083 plugin-container[19232:15970265] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:30.083 plugin-container[19232:15970265] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:11:30.083 plugin-container[19232:15970268] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:30.083 plugin-container[19232:15970268] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:51071
+Read port: 51078
+1694794290268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51071/devtools/browser/e08839f8-6f94-4fb8-86db-6f14ea042720
+1694794291523	Marionette	INFO	Stopped listening on port 51078
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694794295255	geckodriver	INFO	Listening on 127.0.0.1:51114
+1694794295673	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofiledwdgXa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694794295992	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694794296107	Marionette	INFO	Listening on port 51122
+WebDriver BiDi listening on ws://127.0.0.1:51115
+2023-09-15 12:11:36.115 plugin-container[19258:15970707] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:36.115 plugin-container[19258:15970707] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:11:36.123 plugin-container[19258:15970707] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:36.123 plugin-container[19258:15970707] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:11:36.124 plugin-container[19258:15970718] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:36.124 plugin-container[19258:15970718] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 51122
+1694794296230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51115/devtools/browser/c3ad2082-0622-4f8e-8cc4-8b0201fc410e
+1694794296997	Marionette	INFO	Stopped listening on port 51122
+JavaScript error: resource://services-settings/RemoteSettingsWorker.sys.mjs, line 131: Error: Shutdown, aborting read-only worker requests.
+1694794301307	geckodriver	INFO	Listening on 127.0.0.1:51154
+1694794301724	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofilebSmBWD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694794302028	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694794302139	Marionette	INFO	Listening on port 51162
+WebDriver BiDi listening on ws://127.0.0.1:51155
+Read port: 51162
+2023-09-15 12:11:42.150 plugin-container[19278:15971071] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:42.151 plugin-container[19278:15971071] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:11:42.154 plugin-container[19278:15971071] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:42.154 plugin-container[19278:15971071] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:11:42.154 plugin-container[19278:15971073] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:11:42.154 plugin-container[19278:15971073] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694794302233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51155/devtools/browser/1272a305-a5a1-486a-8f33-407207901646
+1694794303912	Marionette	INFO	Stopped listening on port 51162
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694795372479	geckodriver	INFO	Listening on 127.0.0.1:51405
+1694795372914	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofile9A4vZ2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694795373995	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694795374128	Marionette	INFO	Listening on port 51413
+WebDriver BiDi listening on ws://127.0.0.1:51406
+2023-09-15 12:29:34.140 plugin-container[19447:15979134] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:29:34.140 plugin-container[19447:15979134] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:29:34.147 plugin-container[19447:15979134] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:29:34.147 plugin-container[19447:15979134] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:29:34.147 plugin-container[19447:15979136] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:29:34.147 plugin-container[19447:15979136] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 51413
+1694795374260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51406/devtools/browser/61fedb30-10f0-436d-9fb8-260d361c7c62
+1694795376012	Marionette	INFO	Stopped listening on port 51413
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694795379019	geckodriver	INFO	Listening on 127.0.0.1:51452
+1694795379436	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofile7IJZXI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694795379786	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694795379885	Marionette	INFO	Listening on port 51460
+2023-09-15 12:29:39.895 plugin-container[19470:15979605] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:29:39.895 plugin-container[19470:15979605] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:29:39.898 plugin-container[19470:15979605] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:29:39.898 plugin-container[19470:15979605] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:29:39.898 plugin-container[19470:15979615] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:29:39.898 plugin-container[19470:15979615] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:51453
+Read port: 51460
+1694795380019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51453/devtools/browser/614011fa-c267-4e1a-9edf-f038b897cea8
+1694795382471	Marionette	INFO	Stopped listening on port 51460
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694795384497	geckodriver	INFO	Listening on 127.0.0.1:51504
+1694795384920	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileJCUH12"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694795385234	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694795385335	Marionette	INFO	Listening on port 51512
+2023-09-15 12:29:45.343 plugin-container[19493:15980034] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:29:45.344 plugin-container[19493:15980034] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:51505
+2023-09-15 12:29:45.354 plugin-container[19493:15980034] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:29:45.354 plugin-container[19493:15980034] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:29:45.354 plugin-container[19493:15980037] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:29:45.354 plugin-container[19493:15980037] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 51512
+1694795385514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51505/devtools/browser/2df38470-fe6c-4f61-843f-253c506e9adc
+1694795387436	Marionette	INFO	Stopped listening on port 51512
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694795390106	geckodriver	INFO	Listening on 127.0.0.1:51555
+1694795390528	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileJCAkCQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694795390840	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694795390940	Marionette	INFO	Listening on port 51565
+Read port: 51565
+WebDriver BiDi listening on ws://127.0.0.1:51556
+2023-09-15 12:29:50.951 plugin-container[19516:15980448] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:29:50.952 plugin-container[19516:15980448] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:29:50.964 plugin-container[19516:15980448] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:29:50.964 plugin-container[19516:15980448] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:29:50.964 plugin-container[19516:15980450] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:29:50.964 plugin-container[19516:15980450] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694795391023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51556/devtools/browser/8481ce6e-de9d-42fc-b321-8eb40d2c84dd
+1694795392891	Marionette	INFO	Stopped listening on port 51565
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694795396327	geckodriver	INFO	Listening on 127.0.0.1:51606
+1694795396751	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k1/nvrkqbjj0r57349_9d0w5v5w0000gn/T/rust_mozprofileUs9jKP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694795397060	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694795397163	Marionette	INFO	Listening on port 51614
+WebDriver BiDi listening on ws://127.0.0.1:51607
+Read port: 51614
+2023-09-15 12:29:57.173 plugin-container[19539:15980878] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:29:57.173 plugin-container[19539:15980878] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:29:57.179 plugin-container[19539:15980878] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:29:57.179 plugin-container[19539:15980878] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-15 12:29:57.179 plugin-container[19539:15980892] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-15 12:29:57.179 plugin-container[19539:15980892] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1694795397289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51607/devtools/browser/cc7ec0fb-d71e-41f4-8536-f321ab82ef1c
+1694795402634	Marionette	INFO	Stopped listening on port 51614

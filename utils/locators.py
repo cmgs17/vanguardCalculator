@@ -1,0 +1,21 @@
+from selenium.webdriver.common.by import By
+
+class calculatorPageLocations(object):
+    ONE = (By.ID, 'one')
+    TWO = (By.ID, 'two')
+    THREE = (By.ID, 'three')
+    FOUR = (By.ID, 'four')
+    FIVE = (By.ID, 'five')
+    SIX = (By.ID, 'six')
+    SEVEN = (By.ID, 'seven')
+    EIGHT = (By.ID, 'eight')
+    NINE = (By.ID, 'nine')
+    ZERO = (By.ID, 'zero')
+    CLEAR = (By.ID, 'clear')
+    DIVIDE = (By.ID, 'divide')
+    MULTIPLY = (By.ID, 'multiply')
+    SUBTRACT = (By.ID, 'subtract')
+    EQUALS = (By.ID, 'equals')
+    ADDITION = (By.XPATH, '//input[@value="+"]')
+    DISPLAY = (By.ID, 'display')
+    DECIMAL = (By.XPATH, '//input[@value="."]')
